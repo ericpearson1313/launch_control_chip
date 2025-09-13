@@ -6,3 +6,5 @@ A model rocket launch control chip. A better push button.
 ![arch2](lcc_ds_draft_2.png)
 
 ![arch3](lcc_ds_draft_3.png)
+
+![arch4](lcc_ds_draft_4.png)
