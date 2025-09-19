@@ -5,8 +5,8 @@ A model rocket launch control chip. A better push button.
 
 ![application](lcc_ds_draft_2.png)
 
-![pinout](lcc_ds_draft_2b.png)
-
 ![performance](lcc_ds_draft_3.png)
+
+![pinout](lcc_ds_draft_2b.png)
 
 ![package](lcc_ds_draft_4.png)
