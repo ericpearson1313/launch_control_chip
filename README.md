@@ -8,14 +8,11 @@ Key functions and parameters set and documented. A compact module was defined wh
 multiple applications for this module firmed up the I/O to ease integration with clean schematics for each situation. A development board was then designed,
 fully integration the LCC into a single board handheld lauch controller, and enabling chip development.
 
+[Datasheet](Launch_chip_arch.pdf)
+
 ## Dev Board PCB
 Guided by the datasheet thought process the development board PCB was designed. The KiCad schematic and pcb have been developed and added to the repo.
 I'll use this board to bring up the LCC.
-
-
-
-
-.
 
 
 ![features](lcc_ds_draft_1.png)
