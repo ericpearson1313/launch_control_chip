@@ -1,7 +1,7 @@
 # launch_chip
 A model rocket launch control chip. A better push button?
 
-## Datasheet.
+## Datasheet
 Semiconductors start out as an idea. Early datasheets allow exploration of the functionallity to meet the system need.
 I've created a mock datasheet for a launch control chip, to both inspire and try to ground my design as a practical device with multiple applications.
 Key functions and parameters set and documented. A compact module was defined which encompassed core functionallity centered around the device. Considering
@@ -10,10 +10,21 @@ fully integration the LCC into a single board handheld lauch controller, and ena
 
 [Datasheet](Launch_chip_arch.pdf)
 
-## Dev Board PCB
+## Development Board PCB Design
 Guided by the datasheet thought process the development board PCB was designed. The KiCad schematic and pcb have been developed and added to the repo.
-I'll use this board to bring up the LCC.
+The design will be revisioned until tapeout release. I'll use this board to bring up the LCC.
 
+[KiCAD Project](dev_board.kicad_pro)
+
+[KiCAD Schematic](dev_board.kicad_sch)
+
+[KiCAD PCB](dev_board.kicad_pcb)
+
+[Bill of Materials](dev_board.csv)
+
+
+
+## Datasheet Snapshots
 
 ![features](lcc_ds_draft_1.png)
 
