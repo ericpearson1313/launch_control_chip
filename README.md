@@ -41,3 +41,5 @@ The design will be revisioned until tapeout release. I'll use this board to brin
 ![eb_1chan](lcc_eb_draft_2.png)
 
 ![eb_4chan](lcc_eb_draft_3.png)
+
+![dev_brd_pre](Screenshot%202026-02-21%20183923.png)
