@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.8,
-          "height": 3.6,
-          "width": 3.6
+          "drill": 3.0,
+          "height": 5.5,
+          "width": 5.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2032
+          "min_clearance": 0.17779999999999999
         }
       },
       "diff_pair_dimensions": [
@@ -172,12 +172,19 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.1016,
+        0.127,
+        0.254
       ],
       "via_dimensions": [
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false
@@ -405,14 +412,14 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "forge_launcher.kicad_pro",
+    "filename": "dev_board.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.127,
+        "clearance": 0.12065,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -429,7 +436,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.127,
+        "clearance": 0.12065,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
