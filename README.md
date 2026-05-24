@@ -43,3 +43,8 @@ The design will be revisioned until tapeout release. I'll use this board to brin
 ![eb_4chan](lcc_eb_draft_3.png)
 
 ![dev_brd_pre](Screenshot%202026-02-21%20183923.png)
+
+
+#### Extra prototype devices 
+
+I have finished development of my 'perfect?' handheld launch controller powered by the launch control chip. Of the prototype run of devices I have a few extra, and have listed them for sale at cost on Ebay for an offer of $35, with free lettermail shipping. If you have followed the same technical direction as myself, I know this chip would have helped me alot, so maybe it could help other similar hobby technical enthusiasts. [LCC-01 Ebay listing](https://www.ebay.ca/itm/157937950540)
