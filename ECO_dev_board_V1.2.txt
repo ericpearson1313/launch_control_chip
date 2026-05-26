@@ -1,0 +1,22 @@
+Engineering Change Orders
+===========================
+PCB: XS-LCC-01-DB01.2   Development Board PCB V1.2 (first design)
+
+General:
+---------
+- very sloppy with ref designators, ie labels R50 and R83 were swapped.
+- Whole areas (ie under high side of ISO amps) where designators are random and mostly hidden by pads.
+- action: Use PCB file as *sole* guide during component placement during assembly.
+
+Main Panel
+------------
+- R14 and R9 replace with 3k3 (stronger pull down)
+- Q2 footprint numbering is wrong. A rotation, solder 2 pads and a wire for the 3rd. (only this 3904 was mucked up).
+- J4, J7 must be 0.75" standard banana jack pair spacing. Slant connectors towards each other during assembly.
+
+Max10 FPGA Module
+-------------------
+- TP7, TP13 -- add 10K pullups to 3.3v
+- R86 Rotate to connect only X2-3 (isolated from osc bus)
+- Wire X2-3 through R86 series resistor to fpga U20-27 spare pin.
+- note FB2 C100 silkscreen swap. Will short out 3.3v supply!
