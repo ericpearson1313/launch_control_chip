@@ -14,6 +14,12 @@ Main Panel
 - Q2 footprint numbering is wrong. A rotation, solder 2 pads and a wire for the 3rd. (only this 3904 was mucked up).
 - J4, J7 must be 0.75" standard banana jack pair spacing. Slant connectors towards each other during assembly.
 
+Flyback Layout for LT3420
+--------------------------
+U1-5 GND needs to be beefier!!!
+TR1-4 thru D5 thru C15 to GND, should small loop to U1-5 GND
+Future layout using this part should have lowest primary and secondary impedance loops.
+
 Max10 FPGA Module
 -------------------
 - TP7, TP13 -- add 10K pullups to 3.3v
